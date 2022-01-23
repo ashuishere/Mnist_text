@@ -6,5 +6,5 @@
 <li>There are 70,000 images and each image has 28*28 = 784 features.</li>
 <li>Each image is 28*28 pixels and each feature simply represents one-pixel intensity from 0 to 255. If the intensity is 0, it means that the pixel is white and if it is 255, it means it is black.</li>
 </ul><br>
-Refer to the image below displaying handwritten digits in the MNIST dataset taken from Wikipedia:
-<img src="https://en.m.wikipedia.org/wiki/File:MnistExamples.png",alt="Mnist dataset">
+Refer to the image below displaying handwritten digits<br>in the MNIST dataset taken from Wikipedia:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MnistExamples.png/320px-MnistExamples.png",alt="Mnist dataset">
